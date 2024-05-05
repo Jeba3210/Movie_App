@@ -1,5 +1,5 @@
 
-#Movie Explorer App
+# Movie Explorer App
 
 Welcome to Movie Explorer, a web application designed to help you explore and discover top-rated movies across various genres. Built with Vite, React.js, and styled with Tailwind CSS, Movie Explorer offers a seamless and visually appealing experience for movie enthusiasts.
 
