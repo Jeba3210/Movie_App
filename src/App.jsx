@@ -27,8 +27,8 @@ function App() {
   const [selectedGenre, setSelectedGenre] = useState("");
 
   return (
-    <div className="App">
-      <h1>Top 15 Movies of All Time</h1>
+    <div className="  mx-auto max-w-4xl">
+      <h1 className='font-bold text-4xl my-5 ml-60'>Top 15 Movies of All Time</h1>
       <GenreFilter setSelectedGenre={setSelectedGenre} />
       <MovieList movies={movies} selectedGenre={selectedGenre} />
     </div>
