@@ -5,13 +5,8 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {
-        fontFamily: {
-          "Sedan SC" : ["Sedan SC", "sans-serif"],
-        },
-    },
+    extend: {},
   },
-
   plugins: [],
-};
+}
 
